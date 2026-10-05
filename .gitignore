@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.hypothesis/
+.ruff_cache/
+*.egg-info/
+.annotation/
+.history/
+*.pt
+*.onnx
+runs/
+datasets/
+images*/
+labels*/
+reports/
+*.session.json
